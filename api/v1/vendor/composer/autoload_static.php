@@ -11,6 +11,10 @@ class ComposerStaticInitb1942403e1af37c792b7d925c4d0ed25
     );
 
     public static $prefixLengthsPsr4 = array (
+        't' => 
+        array (
+            'td2fhealthcare\\' => 15,
+        ),
         'S' => 
         array (
             'Slim\\' => 5,
@@ -31,6 +35,10 @@ class ComposerStaticInitb1942403e1af37c792b7d925c4d0ed25
     );
 
     public static $prefixDirsPsr4 = array (
+        'td2fhealthcare\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Slim\\' => 
         array (
             0 => __DIR__ . '/..' . '/slim/slim/Slim',
